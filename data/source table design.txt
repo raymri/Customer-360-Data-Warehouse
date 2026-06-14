@@ -1,0 +1,58 @@
+## customers
+- customer_id
+- first_name
+- last_name
+- email
+- phone
+- gender
+- city
+- state
+- country
+- signup_date
+- customer_status
+- preferred_channel
+- updated_at
+
+
+## orders
+- order_id
+- customer_id
+- order_date
+- order_status
+- order_amount
+- payment_method
+- sales_channel
+
+
+## order_items
+- order_item_id
+- order_id
+- product_id
+- product_name
+- category
+- quantity
+- unit_price
+- line_amount
+
+
+## support_tickets
+- ticket_id
+- customer_id
+- ticket_date
+- issue_category
+- priority
+- ticket_status
+- resolution_date
+- csat_score
+
+
+## web_events
+- event_id
+- customer_id
+- event_timestamp
+- event_type
+- page_name
+- device_type
+- traffic_source
+
+

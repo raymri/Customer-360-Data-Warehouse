@@ -1,0 +1,7 @@
+event_id,customer_id,event_timestamp,event_type,page_name,device_type,traffic_source
+E001,C001,2025-03-20 10:00:00,page_view,Home,Mobile,Organic
+E002,C001,2025-03-20 10:05:00,add_to_cart,Product Page,Mobile,Organic
+E003,C002,2025-03-21 12:30:00,page_view,Search,Desktop,Email
+E004,C003,2025-03-22 09:15:00,page_view,Home,Mobile,Direct
+E005,C004,2025-03-22 09:20:00,checkout,Checkout,Desktop,Ads
+E006,C006,2025-03-23 18:40:00,page_view,Product Page,Mobile,organic

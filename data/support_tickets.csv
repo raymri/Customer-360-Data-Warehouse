@@ -1,0 +1,7 @@
+ticket_id,customer_id,ticket_date,issue_category,priority,ticket_status,resolution_date,csat_score
+T001,C001,2025-03-01,Delivery Delay,High,Resolved,2025-03-03,4
+T002,C002,2025-03-04,Payment Failure,Medium,Closed,2025-03-05,5
+T003,C003,2025-03-08,Product Defect,High,Open,,2
+T004,C004,2025-03-10,Refund Request,Low,Pending,,3
+T005,C005,2025-03-12,Wrong Item,High,Resolved,2025-03-14,4
+T006,C006,2025-03-15,Delivery Delay,Urgent,resolved,2025-03-18,5

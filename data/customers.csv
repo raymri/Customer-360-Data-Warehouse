@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email,phone,gender,city,state,country,signup_date,customer_status,preferred_channel,updated_at
+C001,Aarav,Sharma,aarav.sharma@gmail.com,9876543210,Male,Mumbai,Maharashtra,India,2024-01-10,Active,Email,2026-06-01 10:15:00
+C002,Priya,Das,priya.das@yahoo.com,9123456780,Female,Kolkata,West Bengal,India,2024-02-18,Active,SMS,2026-06-01 11:00:00
+C003,Rohan,Gupta,rohan.gupta@outlook.com,,Male,Delhi,Delhi,India,2024-03-02,Inactive,Email,2026-05-20 09:30:00
+C004,Ananya,Roy,ANANYA.ROY@gmail.com,9988776655,Female,Bengaluru,Karnataka,India,2024-04-12,Active,Push,2026-06-02 14:20:00
+C005,Sneha,Paul,sneha.paul@gmail.com,9001122334,Female,Guwahati,Assam,India,2024-04-25,Active,Email,2026-06-03 08:45:00
+C006,Ananya,Roy,ananya.roy@gmail.com,9988776655,Female,Bengaluru,Karnataka,India,2024-04-12,ACTIVE,Email,2026-06-04 16:30:00

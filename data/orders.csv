@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,order_status,order_amount,payment_method,sales_channel
+O1001,C001,2025-01-15,Completed,2500,Card,Website
+O1002,C002,2025-01-20,Completed,1800,UPI,Mobile App
+O1003,C003,2025-02-05,Cancelled,1200,Card,Website
+O1004,C004,2025-02-10,Completed,3200,Net Banking,Website
+O1005,C005,2025-02-12,Pending,1500,COD,Mobile App
+O1006,C006,2025-02-18,completed,2800,UPI,Website
