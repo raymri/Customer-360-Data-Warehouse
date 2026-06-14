@@ -14,6 +14,10 @@ The goal of this project was to design a two-page Power BI report that:
 - Analyzes customer value segments
 - Supports interactive filtering by year, customer status, country, and segment
 
+## Business Impact
+
+This dashboard helps stakeholders quickly compare overall customer performance with segment-level behavior. It supports faster decision-making by showing which customer segments contribute the most revenue, how many customers belong to each segment, and how order activity differs across segments.
+
 ## Tools Used
 
 - Power BI
@@ -55,6 +59,13 @@ This page provides a high-level summary of customer and revenue performance. It 
 This page focuses on segment performance and customer value analysis. It includes KPIs, revenue by segment, customer count by segment, total orders by segment, and a segment detail matrix.
 
 ![Customer Segments & Value Analysis](powerbi/Page2.png)
+
+
+## How to Use
+
+1. Start on the **Executive Overview** page to review high-level KPIs and overall customer performance.
+2. Move to **Customer Segments & Value Analysis** to compare revenue, order volume, and customer count across value segments.
+3. Use the slicers on the right to filter the report by year, customer status, country, and value segment.
 
 ## Data Model View
 
